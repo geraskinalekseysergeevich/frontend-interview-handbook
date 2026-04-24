@@ -1,7 +1,5 @@
 # Infrastructure - Kubernetes
 
-[[_TOC_]]
-
 ## Уровни навыка
 ### Уровень 1
 

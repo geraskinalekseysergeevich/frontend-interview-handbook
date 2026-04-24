@@ -1,7 +1,5 @@
 # RxJS
 
-[[_TOC_]]
-
 ## Уровни навыка
 ### Уровень 1
 * Интерфейсы Observable и Observer в Rx
