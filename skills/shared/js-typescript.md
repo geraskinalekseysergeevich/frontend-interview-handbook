@@ -64,8 +64,6 @@
 * Инвариантность, ковариантность, контравариантность и бивариантность
 * Полиморфизм в TS
 
-## Метод оценки
-
 ## Как прокачать
 ### Уровень 1-2:
 * [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) --- basic

@@ -58,8 +58,6 @@
     -   BFG
     -   git-filter-repo
 
-## Метод оценки
-
 ## Как прокачать
 ### Уровень 1
 -   [Первые три раздела Pro Git от Scott Chacon и Ben Straub](https://git-scm.com/book/ru/v2)

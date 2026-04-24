@@ -43,8 +43,6 @@ Backend:
 * Знает, что такое worker threads и child processes.
 * Знает их отличительные особенности и целевые сценарии использования.
 
-## Метод оценки
-
 ## Как прокачать
 * [MDN Asynchronous JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 * [You don't know JS: async and performance(rus)](https://github.com/devSchacht/You-Dont-Know-JS/tree/master/async%20%26%20performance)

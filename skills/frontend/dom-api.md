@@ -32,6 +32,4 @@
 -   Selection API
 -   Range API
 
-## Метод оценки
-
 ## Как прокачать

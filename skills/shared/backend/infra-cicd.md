@@ -25,10 +25,6 @@
   * blue-green
 * Умеет настраивать пайплайны для приложений с нуля
 
-## Метод оценки
-
-TODO
-
 ## Как прокачать
 * Книга "Continuous Integration" by Paul Duvall, Steve Matyas, and Andrew Glover
 * Книга "Continuous Delivery" by Jez Humble and David Farley

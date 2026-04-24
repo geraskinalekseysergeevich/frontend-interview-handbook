@@ -28,8 +28,6 @@
 * Оптимизации, которые используют браузеры при перерисовке web-страницы.
 * Инструменты оптимизации производительности процесса ререндеринга.
 
-## Метод оценки
-
 ## Как прокачать
 * [[html5rocks] How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [[Web fundamentals] Rendering performance](https://developers.google.com/web/fundamentals/performance/rendering)

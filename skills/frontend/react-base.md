@@ -42,8 +42,6 @@
 * Владение отладкой
 * React DevTools
 
-## Метод оценки
-
 ## Как прокачать
 * [React Documentation](https://reactjs.org/docs/getting-started.html)
 * [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)

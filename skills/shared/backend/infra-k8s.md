@@ -34,10 +34,6 @@
 * Знает архитектуру куба
 * Знает как профилировать и снимать дампы в кубе
 
-## Метод оценки
-
-TODO
-
 ## Как прокачать
 * The Kubernetes Book by Nigel Poulton
 * Kubernetes in Action by Marko Luksa

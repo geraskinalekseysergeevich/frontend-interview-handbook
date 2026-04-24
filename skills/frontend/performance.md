@@ -60,8 +60,6 @@
 * Сеть: IPv6, TCP BBR, QUIC, HTTP/3 
 * Тестирование в прокси- и легаси- браузерах
 
-## Метод оценки
-
 ## Как прокачать
 ### Must See
 * <https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/> - основной туториал по всем темам

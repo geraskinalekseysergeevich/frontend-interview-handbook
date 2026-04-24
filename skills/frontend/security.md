@@ -25,8 +25,6 @@
 ### Уровень 3
 * Глубокое понимание всех типов атак, описанных в OWASP top-10
 
-## Метод оценки
-
 ## Как прокачать
 * [Основы XSS](https://hackware.ru/?p=1174&PageSpeed=noscript)
 * [XSS](https://portswigger.net/web-security/cross-site-scripting)

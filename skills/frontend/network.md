@@ -58,8 +58,6 @@
 * понимание graphQL
 * понимание web rtc
 
-## Метод оценки
-
 ## Как прокачать
 * [PWA Broadcast No.10 - Как работает интернет?](https://wiki.tcsbank.ru/pages/viewpage.action?pageId=839361749)
 * <https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177> 

@@ -54,8 +54,6 @@
 
 *Умение*: Способен организовать дизайн-систему в коде
 
-## Метод оценки
-
 ## Как прокачать
 * MDN - [HTML](https://developer.mozilla.org/ru/docs/Learn/HTML), [CSS](https://developer.mozilla.org/ru/docs/Learn/CSS)
 * [CSS-Tricks](https://css-tricks.com/guides/) - разного рода гайды и полезные статьи по CSS и не только

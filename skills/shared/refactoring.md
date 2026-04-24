@@ -33,9 +33,6 @@
 Миграция системы на другой библиотеку, фреймворк и т.д.
 Для сложного рефакторинга может составить план, оценить сроки и ресурсы, просчитать риски. 
 
-## Метод оценки
-TODO
-
 ## Как прокачать
 * [Рефакторинг кода на JavaScript | Фаулер Мартин](https://www.ozon.ru/product/refaktoring-koda-na-javascript-uluchshenie-proekta-sushchestvuyushchego-koda-156082567/)
 * [Чистый код | Мартин Роберт К.](https://www.ozon.ru/context/detail/id/5011068/)
